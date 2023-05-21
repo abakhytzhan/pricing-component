@@ -1,6 +1,6 @@
 ## Link
 
-https://clinquant-muffin-83565d.netlify.app/
+https://heartfelt-bublanina-3e0214.netlify.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
